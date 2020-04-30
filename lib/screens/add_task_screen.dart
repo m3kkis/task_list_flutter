@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:udemyproject/helpers/database_helper.dart';
-import 'package:udemyproject/models/task_model.dart';
+import 'package:task_list_flutter/helpers/database_helper.dart';
+import 'package:task_list_flutter/models/task_model.dart';
 
 class AddTaskScreen extends StatefulWidget {
 
