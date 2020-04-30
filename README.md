@@ -1,6 +1,6 @@
 # udemyproject
 
-A new Flutter project.
+Learning and built this project using tutorials, this will be used as reference for future projects.
 
 ## Getting Started
 
