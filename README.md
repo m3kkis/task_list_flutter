@@ -1,4 +1,4 @@
-# udemyproject
+# Task List using Flutter
 
 Learning and built this project using tutorials, this will be used as reference for future projects.
 
