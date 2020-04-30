@@ -1,6 +1,6 @@
 # Task List using Flutter
 
-Learning and built this project using tutorials, this will be used as reference for future projects.
+Learning dart&flutter and built this project using tutorials, this will be used as reference for future projects.
 
 ## Getting Started
 
